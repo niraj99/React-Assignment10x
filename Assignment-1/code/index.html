@@ -14,7 +14,22 @@
     <div id="root"></div>
     <script type="text/babel">
 //React Code here
- ReactDOM.render(<div></div>,document.getElementById('root'));
+var toRender = React.createElement("div",{class:"main-box"},
+React.createElement("div",{class:"yellow-box"},
+React.createElement("div",{class:"content"},"",null),
+React.createElement("div",{class:"content"},"",null)
+
+,null),
+React.createElement("div",{class:"red-box"},
+React.createElement("div",{class:"content"},"",null)
+,null),
+React.createElement("div",{class:"blue-box"},
+React.createElement("div",{class:"content"},"",null),
+React.createElement("div",{class:"content"},"",null),
+React.createElement("div",{class:"content"},"",null)
+,null)
+,null)
+ ReactDOM.render(toRender,document.getElementById('root'));
 
 </script>
 <!--
