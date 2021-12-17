@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+.main-content{
+  border: 1px solid black;
+  height: 400px;
+  width: 150px;
+  margin: auto;
+  margin-top: 150px;
+}
+div img{
+  border-radius: 7px;
+}
+.light{
+  color: gray;
+  font-size: 13px;
+  font-weight: bold;
+}
+.Img-div{
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.name-div{
+  margin-left: 15px;
+}
+.name-div h1{
+  color: #61dafb;
+}
+
+.content{
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.variable{
+  font-weight: bold;
+}
+p{
+  margin: 2px;
+}
