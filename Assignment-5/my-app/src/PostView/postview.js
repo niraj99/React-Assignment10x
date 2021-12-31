@@ -1,5 +1,5 @@
 import React from 'react';
-import './Postview.css';
+import './postview.css';
 import { useEffect, useState } from 'react';
 
 

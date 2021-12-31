@@ -1,0 +1,30 @@
+{
+    "user":[    
+        {
+            "name":"Siva",
+            "location":"Bengaluru",
+            "likes":"64 likes",
+            "description": "Kick start your career",
+            "PostImage": "./Images/10xacademy.png",
+            "date": "20-12-2021"
+        },
+
+        {
+            "name":"Neeraj",
+            "location":"Pune",
+            "likes":"30 likes",
+            "description": "Sample Description",
+            "PostImage": "./Images/10xacademy.png",
+            "date": "19-12-2021"
+        },
+
+        {
+            "name":"Rahul",
+            "location":"Hyderabad",
+            "likes":"39 likes",
+            "description": "Sample Description for Post",
+            "PostImage": "./Images/10xacademy.png",
+            "date": "18-12-2021"
+        }
+    ]
+}
